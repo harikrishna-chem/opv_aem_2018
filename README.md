@@ -1,4 +1,4 @@
-# PCE predictor
+# PCE predictor [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][1]
 A Colab notebook is available for predicting the power conversion efficiency of small-molecule organic photovoltaics using the models developed in the AEM article: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][1]
 
 # Reference
