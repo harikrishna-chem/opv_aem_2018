@@ -8,7 +8,7 @@ A Colab notebook is available for predicting the power conversion efficiency (PC
 * Haibo Ma
 
 ## License & Copyright
-Ma Group, [Nanjing University, China] (https://www.nju.edu.cn/en/)\
+Ma Group, [Nanjing University, China](https://www.nju.edu.cn/en/)\
 [Ma Group website](https://quantum-chemistry-cn.com)\
 License: For academic use only.
 
